@@ -13,12 +13,12 @@ Follow these steps to set up and run the service locally :
 ### Installation
 Clone the repository :
 
-`git clone https://github.com/yvann-hub/ChatBot-CSV.git`
+`git clone https://github.com/RustX2802/CSV-ChatBot.git`
 
 
 Navigate to the project directory :
 
-`cd ChatBot-CSV`
+`cd CSV-ChatBot`
 
 
 Create a virtual environment :
@@ -39,6 +39,6 @@ Launch the chat service locally :
 #### That's it! The service is now up and running locally. 🤗
 
 ## Contributing 🙌
-Contributions are always welcome! If you want to contribute to this project, please open an issue, submit a pull request or contact me at barbot.yvann@gmail.com (:
+Contributions are always welcome! If you want to contribute to this project, please open an issue, submit a pull request or contact me at rustix260685@gmail.com (:
 
 
